@@ -1,0 +1,33 @@
+file format : IDRISI Raster A.1
+file title  : Window from 2023_reclass_5 c: 2 r: 2 to c: 1323 r: 1664
+data type   : byte
+file type   : binary
+columns     : 1322
+rows        : 1663
+ref. system : utm-38n
+ref. units  : m
+unit dist.  : 1.0000000
+min. X      : 208829.3700000
+max. X      : 215439.3700000
+min. Y      : 555619.0500000
+max. Y      : 563934.0500000
+pos'n error : unknown
+resolution  : 5.0000000
+min. value  : 1
+max. value  : 7
+display min : 1
+display max : 7
+value units : unspecified
+value error : unknown
+flag value  : none
+flag def'n  : na
+legend cats : 7
+code      1 : Built
+code      2 : Agricultural
+code      3 : Forest
+code      4 : Grass
+code      5 : Wetland
+code      6 : Barren
+code      7 : Water
+lineage     : This file was created by the WINDOW module with the command line:
+lineage     : C:\Users\user\Desktop\# SD\# DS BN RST\2023_reclass_5.rst*C:\Users\user\Desktop\# SD\# DS BN RST\2023_window_5.rst*1*2*2*1323*1664*0
